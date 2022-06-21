@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20G527" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ImageDetails" representedClassName="ImageDetails" syncable="YES" codeGenerationType="class">
+        <attribute name="imgDate" optional="YES" attributeType="String"/>
+        <attribute name="imgExplanation" optional="YES" attributeType="String"/>
+        <attribute name="imgMediaType" optional="YES" attributeType="String"/>
+        <attribute name="imgTitle" optional="YES" attributeType="String"/>
+        <attribute name="imgUrl" optional="YES" attributeType="String"/>
+        <attribute name="isImgfavourite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="ImageDetails" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>
